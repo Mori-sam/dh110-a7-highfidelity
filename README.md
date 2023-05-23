@@ -16,6 +16,8 @@ This interactive prototype for TribeTrack aims to improve the visualization and 
 <img src="./interaction.png">
 
 ## Cognitive Walkthrough
+[Zoom Recording](https://ucla.zoom.us/rec/share/07O7Rt8ozPZWdr8QG_e2u9q2iv8v3CSKXaoE6S9YJ84xJW08-reCoJNTwLlXVZBU.FlWEaXXcA-AW9Qxv)
+
 The cognitive walkthrough went smoothly, but we made some discoveries during the test. The first task proceeded well, as I let the tester complete it without any intervention. However, I found that one of the interaction designs only covered the plus sign, rather than the entire interface. I made the necessary changes afterwards.
 
 During the second task, the tester encountered a problem when trying to drag the geofence area circle from the shortcut way. I noted this issue and made the necessary fix. I also walked the tester through the proper way to complete the task, which they were able to do quickly.
