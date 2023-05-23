@@ -15,4 +15,22 @@ This interactive prototype for TribeTrack aims to improve the visualization and 
 
 <img src="./interaction.png">
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLUVFanPDicMw6mCunnuDFt%2FHigh-Fidelity%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DjlLC4x4jRhguLyDq-1" allowfullscreen></iframe>
+## Cognitive Walkthrough
+The cognitive walkthrough went smoothly, but we made some discoveries during the test. The first task proceeded well, as I let the tester complete it without any intervention. However, I found that one of the interaction designs only covered the plus sign, rather than the entire interface. I made the necessary changes afterwards.
+
+During the second task, the tester encountered a problem when trying to drag the geofence area circle from the shortcut way. I noted this issue and made the necessary fix. I also walked the tester through the proper way to complete the task, which they were able to do quickly.
+
+The tester did not encounter any misdirections, so I directed them to the error prevention pages as well. Following this, I asked the tester the following questions:
+
+1. What do you think about the visibility of this app?
+> It looks good.
+3. Can you go back to the previous frame?
+> Yes.
+4. Do you have error prevention and are you able to exit the error prevention?
+> Yes.
+5. Did you think you could perform the task without any hints? What about tasks that require pure memorization?
+> It may be unclear the first time (for the second task), but it should become clearer after that.
+6. Do you find the operations simple and easy to understand?
+> Yes
+7. Do you have any suggestions?
+> Not really.
