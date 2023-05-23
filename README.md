@@ -14,3 +14,5 @@ This interactive prototype for TribeTrack aims to improve the visualization and 
 <img src="./wireflow.png">
 
 <img src="./interaction.png">
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLUVFanPDicMw6mCunnuDFt%2FHigh-Fidelity%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DjlLC4x4jRhguLyDq-1" allowfullscreen></iframe>
