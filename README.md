@@ -36,3 +36,5 @@ The tester did not encounter any misdirections, so I directed them to the error 
 > Yes
 7. Do you have any suggestions?
 > Not really.
+
+## Moderations After Cognitive Walkthrough
