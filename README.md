@@ -48,4 +48,4 @@ I've added the interactions of "Add a new place" button of the two ends back to 
 
 <img src="./3.png">
 
-I've made a new frame so that the user will have no problem of
+I've made a new frame so that the user will have no problem of dragging the geofence by going from the shortcut way of performing the second task.
