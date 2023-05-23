@@ -38,3 +38,14 @@ The tester did not encounter any misdirections, so I directed them to the error 
 > Not really.
 
 ## Moderations After Cognitive Walkthrough
+<img src="./1.png">
+
+I've made the interactive prototype of "Add New Contact" into the full interface instead of just the plus sign.
+
+<img src="./2.png">
+
+I've added the interactions of "Add a new place" button of the two ends back to the Geofence 1 frame, so the user can rewind back to the test again. I've also linked the menu bar to the Safty page, so the user can also try the first task from the end of task 2.
+
+<img src="./3.png">
+
+I've made a new frame so that the user will have no problem of
